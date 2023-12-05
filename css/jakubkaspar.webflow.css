@@ -322,6 +322,11 @@ strong {
   display: none;
 }
 
+.button-more.sub {
+  margin-top: 40px;
+  margin-left: 0;
+}
+
 .hero-logos {
   margin-top: 30px;
 }
@@ -717,6 +722,11 @@ strong {
 
 .next-row {
   margin-top: 20px;
+}
+
+.all-work-wrap {
+  text-align: center;
+  margin-top: 40px;
 }
 
 @media screen and (min-width: 1440px) {
